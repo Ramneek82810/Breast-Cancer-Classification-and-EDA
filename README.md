@@ -34,7 +34,7 @@ SVM is a powerful and unique technique in cancer detection. Why? Here's the magi
 
 -SVM's extreme focus on boundary points ensures precise classification. 🔍💪🔗
 
-## Breast Cancer Detection: Dataset Information
+## Breast-Cancer Detection: Dataset Information
 
 The dataset consists of features extracted from digitized FNA images of breast masses. These features represent the characteristics of cell nuclei in the tumor. 🖼️🔬🧠
 
